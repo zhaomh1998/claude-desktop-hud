@@ -1,0 +1,5 @@
+{
+  "name": "scott-mods",
+  "owner": { "name": "scott" },
+  "plugins": [{ "name": "context-hud", "source": "./" }]
+}

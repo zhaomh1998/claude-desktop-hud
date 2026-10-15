@@ -1,0 +1,6 @@
+{
+  "name": "context-hud",
+  "version": "0.1.0",
+  "description": "A HUD band above the prompt showing context, prompt cache, token usage, rate limits and cost",
+  "types": "./types/index.d.ts"
+}
